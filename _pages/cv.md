@@ -7,7 +7,7 @@ author_profile: true
 ## Education
 
 **PhD in Physics**  
-Institute of Mathematical Sciences (IMSc), Chennai  
+The Institute of Mathematical Sciences (IMSc), Chennai  
 2024–Present
 
 **Graduate Research Assistant**  
